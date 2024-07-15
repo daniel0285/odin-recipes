@@ -1,0 +1,21 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(194, 204, 209);
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.link:hover {
+    color: rgb(6, 55, 161);
+}
+
+.title {
+    text-align: center;
+}
